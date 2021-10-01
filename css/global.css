@@ -249,7 +249,7 @@ nav.browse a, nav.music a {
 @media (min-width: 1400px ) {
 
     html {
-        font-size: 62.5%; /* de base 1 px = 0.625rem, après cette conversion : 10px <=> 1.0 rem */
+        font-size: 72.5%
     }
 
  }
@@ -258,7 +258,7 @@ nav.browse a, nav.music a {
 
 
     html {
-        font-size: 52.5%; 
+        font-size:  67.5%; 
     }
 
 
@@ -267,7 +267,7 @@ nav.browse a, nav.music a {
  @media (min-width: 451px) and (max-width: 600.98px) { 
 
     html {
-        font-size: 47.5%; 
+        font-size: 62.5%; /* de base 1 px = 0.625rem, après cette conversion : 10px <=> 1.0 rem */
     }
 
  }
@@ -276,7 +276,7 @@ nav.browse a, nav.music a {
 @media (max-width: 450.98px) { 
 
     html {
-        font-size: 42.5%; 
+        font-size: 57.5%; 
     }
 
 }
